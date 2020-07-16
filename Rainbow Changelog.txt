@@ -19,4 +19,4 @@ Rainbow2
     
     Spelling and grammer
         Comments had a few errors
-        Line 42 (Rainbow1)/45 (Rainbow) was corrected
+        Line 42 (Rainbow1)/45 (Rainbow2) was corrected
