@@ -1,0 +1,22 @@
+Rainbow1
+    Made base game
+
+Rainbow2
+    Added customization to lists
+        Can now add custom items
+        New items can be viewed in menu by pressing "L" and in-game by pressing "L"
+
+    Must now confirm you stance on exiting the game
+        Prevents unintentional exiting of the game
+        Leaving game erases any changes to the lists
+
+    Made program easier to navigate
+        Beautification
+            Particularly with the "I" block
+        Less unnessasary spaces
+        Status massages
+        Added comments to the "S" block
+    
+    Spelling and grammer
+        Comments had a few errors
+        Line 42 (Rainbow1)/45 (Rainbow) was corrected
