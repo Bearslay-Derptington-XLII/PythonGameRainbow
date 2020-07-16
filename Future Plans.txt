@@ -1,0 +1,9 @@
+Things to add:
+
+    The abilty to remove items from the list
+
+    A way to keep your changes between closing and opening the program
+
+    Multi-list support
+        Includes the abilty to use a specified list in a game
+        Includes the abilty to name and customize the list
